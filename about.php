@@ -27,7 +27,7 @@
         </div>
     </div>
     </section>  
-
+    <!-- mission section -->
     <section class="about-mission-section">
         <div class="about-mission-container">
             <div class="about-mission-image">
@@ -44,4 +44,5 @@
 </div>
 </section>
 </main>
+
 <?php require_once './templates/footer.php'; ?>
